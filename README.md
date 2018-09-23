@@ -1,2 +1,2 @@
  # Sistema_academico
- Projeto Poo 
+ Mini sistema acadêmico para de gerência de uma faculdade.
