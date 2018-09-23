@@ -1,2 +1,2 @@
  # Sistema_academico
- Mini sistema acadêmico para de gerência de uma faculdade.
+ Mini sistema acadêmico para gerência de uma faculdade.
